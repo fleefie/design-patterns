@@ -63,8 +63,6 @@ ProductB  ..>  Product
 
 ## Détails
 
-### Description
-
 #### Intention
 
 - Définir l'interface de création d'un objet, en laissant des sous-classes décider
