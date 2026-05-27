@@ -10,7 +10,7 @@ Patternes abordés et à faire:
 
 - [X] Factory
 - [X] Abstract Factory
-- [ ] Singleton
+- [X] Singleton
 
 ### Structure
 
