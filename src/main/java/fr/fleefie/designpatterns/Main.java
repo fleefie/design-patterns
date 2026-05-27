@@ -1,5 +1,6 @@
 package fr.fleefie.designpatterns;
 
+import fr.fleefie.designpatterns.abstractfactory.ExampleAbstractFactory;
 import fr.fleefie.designpatterns.factory.ExampleFactory;
 
 public class Main {
@@ -7,5 +8,6 @@ public class Main {
         System.out.println("Lancement de tous les exemples !");
 
         ExampleFactory.run(1);
+        ExampleAbstractFactory.run(1);
     }
 }
