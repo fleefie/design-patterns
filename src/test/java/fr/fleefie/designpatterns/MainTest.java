@@ -1,4 +1,4 @@
-package fr.fleefie;
+package fr.fleefie.designpatterns;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
