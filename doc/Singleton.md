@@ -1,7 +1,7 @@
 # Singleton
 
 - Package: [fr.fleefie.designpatterns.singleton](/src/main/java/fr/fleefie/designpatterns/singleton)
-- Utilisation: [ExampleSingleton.java](/src/main.java/fr/fleefie/designpatterns/singleton/ExampleSingleton.java)
+- Utilisation: [ExampleSingleton.java](/src/main/java/fr/fleefie/designpatterns/singleton/ExampleSingleton.java)
 
 ## Résumé
 

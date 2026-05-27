@@ -1,7 +1,7 @@
 # Factory (fabrique)
 
 - Package: [fr.fleefie.designpatterns.factory](/src/main/java/fr/fleefie/designpatterns/factory)
-- Utilisation: [ExampleFactory.java](/src/main.java/fr/fleefie/designpatterns/factory/ExampleFactory.java)
+- Utilisation: [ExampleFactory.java](/src/main/java/fr/fleefie/designpatterns/factory/ExampleFactory.java)
 
 ## Résumé
 

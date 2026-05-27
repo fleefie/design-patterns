@@ -1,7 +1,7 @@
 # Abstract Factory (fabrique abstraite)
 
 - Package: [fr.fleefie.designpatterns.abstractfactory](/src/main/java/fr/fleefie/designpatterns/abstractfactory)
-- Utilisation: [ExampleAbstractFactory.java](/src/main.java/fr/fleefie/designpatterns/factory/ExampleAbstractFactory.java)
+- Utilisation: [ExampleAbstractFactory.java](/src/main/java/fr/fleefie/designpatterns/factory/ExampleAbstractFactory.java)
 - Prérequis: [Factory](/doc/Factory.md)
 
 ## Résumé
