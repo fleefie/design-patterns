@@ -1,13 +1,31 @@
 # Factory (fabrique)
 
-Package: [fr.fleefie.designpatterns.factory](/src/main.java/fr/fleefie/designpatterns/factory)
-Utilisation: [ExampleFactory.java](/src/main.java/fr/fleefie/designpatterns/factory/ExampleFactory.java)
+- Package: [fr.fleefie.designpatterns.factory](/src/main/java/fr/fleefie/designpatterns/factory)
+- Utilisation: [ExampleFactory.java](/src/main.java/fr/fleefie/designpatterns/factory/ExampleFactory.java)
 
 ## Résumé
 
 Une fabrique à pour but de séparer la logique de création d'un produit du
 produit en lui-même en passant par une classe dédiée à l'instantiation d'un
 nouveau produit. 
+
+L'idée est simple, on a une interface / classe abstraite représentant un produit
+qui possède plusieurs variantes. On a également une classe fabrique qui possède 
+elle-même plusieurs variantes. Chaque variante de la classe fabrique va pouvoir
+créer une version du produit. Plus concrètement, pour simplifier, au lieu de faire:
+
+```java
+Product prod = new Product();
+```
+
+On aura:
+
+```java
+ProductFactory fact = new ProductFactory();
+Product prod = fact.createProduct();
+```
+
+Ce qui permet de traiter plusieurs produits polymorphiquement.
 
 ## Diagrammes
 
