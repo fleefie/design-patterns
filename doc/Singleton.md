@@ -41,7 +41,8 @@ dans une application multi-threadée !
 classDiagram
 direction BT
 class IntegerSingleton {
-  - instance IntegerSingleton$  
+  - instance IntegerSingleton$
+  - value Integer
   - IntegerSingletonEager() IntegerSingleton
   + getInstance() IntegerSingleton
   + getValue() Integer
