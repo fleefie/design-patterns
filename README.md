@@ -24,7 +24,7 @@ pottentiellemet supplémentaires, d'un objet.
 - [ ] Adapter
 - [ ] Proxy
 - [X] Decorator
-- [ ] Composite
+- [X] Composite
 
 ### Comportement
 
