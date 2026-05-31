@@ -30,7 +30,7 @@ pottentiellemet supplémentaires, d'un objet.
 
 Ces patternes intéragissent directement avec la logique métier.
 
-- [ ] Command
+- [X] Command
 - [ ] Observer
 - [ ] Iterator
 - [ ] Visitor

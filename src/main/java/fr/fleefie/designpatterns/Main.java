@@ -1,6 +1,7 @@
 package fr.fleefie.designpatterns;
 
 import fr.fleefie.designpatterns.abstractfactory.ExampleAbstractFactory;
+import fr.fleefie.designpatterns.command.ExampleCommand;
 import fr.fleefie.designpatterns.composite.ExampleComposite;
 import fr.fleefie.designpatterns.decorator.ExampleDecorator;
 import fr.fleefie.designpatterns.factory.ExampleFactory;
@@ -15,5 +16,6 @@ public class Main {
         ExampleSingleton.run();
         ExampleDecorator.run();
         ExampleComposite.run();
+        ExampleCommand.run();
     }
 }
