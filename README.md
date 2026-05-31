@@ -17,7 +17,7 @@ Patternes abordés et à faire:
 - [ ] Facade
 - [ ] Adapter
 - [ ] Proxy
-- [ ] Decorator
+- [X] Decorator
 - [ ] Composite
 
 ### Comportement
