@@ -8,11 +8,17 @@ Patternes abordés et à faire:
 
 ### Création
 
+Ces patternes touchent à l'instantiation d'un ou de plusieurs objets. Ils
+permettent de s'assurer que plusieurs objets sont créers et gérés proprement.
+
 - [X] Factory
 - [X] Abstract Factory
 - [X] Singleton
 
 ### Structure
+
+Ces patternes structurent le flot de contrôle et gèrent une liste de fonctions,
+pottentiellemet supplémentaires, d'un objet.
 
 - [ ] Facade
 - [ ] Adapter
@@ -21,6 +27,8 @@ Patternes abordés et à faire:
 - [ ] Composite
 
 ### Comportement
+
+Ces patternes intéragissent directement avec la logique métier.
 
 - [ ] Command
 - [ ] Observer
